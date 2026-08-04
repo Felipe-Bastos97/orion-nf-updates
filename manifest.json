@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.3",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.3/OrionNF_Setup_0.1.3.exe",
-    "sha256":  "5217bffcecab2bd2219a96e44ad46529b7be6c8cae0de5e5a981e6a5ddd20edd",
-    "notes":  "Login diferencia maiusculas e minusculas. Atualizacoes futuras passam a instalar automaticamente com verificacao de integridade.",
+    "version":  "0.1.4",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.4/OrionNF_Setup_0.1.4.exe",
+    "sha256":  "bc2715e72aacca891c0d9d49ecdf49b0b34e6052de1e464a314db551556835fc",
+    "notes":  "Meu Plano responsivo e navegacao mais rapida entre as telas.",
     "mandatory":  false
 }
