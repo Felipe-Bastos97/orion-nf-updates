@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.5",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.5/OrionNF_Setup_0.1.5.exe",
-    "sha256":  "fac88cf606998f3549af1066b2d1e0e34a986ec3348a678babd480ee5cad301c",
-    "notes":  "O titulo da janela principal agora mostra a versao instalada.",
+    "version":  "0.1.6",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.6/OrionNF_Setup_0.1.6.exe",
+    "sha256":  "6413a90219954c9b79ce3ab3036865dfd238e5e5bc75db83927ce5b0256b7baa",
+    "notes":  "Telas pre-carregadas para navegacao mais rapida. Atualizacao pergunta Atualizar agora ou Mais tarde.",
     "mandatory":  false
 }
