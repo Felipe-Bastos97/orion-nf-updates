@@ -1,6 +1,7 @@
 {
-    "version":  "0.1.2",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.2/OrionNF_Setup_0.1.2.exe",
-    "notes":  "Interface responsiva para notebooks, validacao automatica da conexao e atualizador oficial configurado.",
+    "version":  "0.1.3",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.3/OrionNF_Setup_0.1.3.exe",
+    "sha256":  "5217bffcecab2bd2219a96e44ad46529b7be6c8cae0de5e5a981e6a5ddd20edd",
+    "notes":  "Login diferencia maiusculas e minusculas. Atualizacoes futuras passam a instalar automaticamente com verificacao de integridade.",
     "mandatory":  false
 }
