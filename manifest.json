@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.7",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.7/OrionNF_Setup_0.1.7.exe",
-    "sha256":  "c93324c2ca5e0e9ac9dcefe7f4d59562e873e807ec650954a9f74cca029468fa",
-    "notes":  "Versao estavel anterior.",
+    "version":  "0.1.9",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.9/OrionNF_Setup_0.1.9.exe",
+    "sha256":  "1d6c8be0e114796566848a6f57ca5a513594f0de917e1d857fc23d378ac6746c",
+    "notes":  "Corrige a tela de carregamento e mantem o modo compacto para telas menores.",
     "mandatory":  false
 }
