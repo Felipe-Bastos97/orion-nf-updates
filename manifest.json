@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.9",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.1.9/OrionNF_Setup_0.1.9.exe",
-    "sha256":  "1d6c8be0e114796566848a6f57ca5a513594f0de917e1d857fc23d378ac6746c",
-    "notes":  "Corrige a tela de carregamento e mantem o modo compacto para telas menores.",
+    "version":  "0.2.0",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.0/OrionNF_Setup_0.2.0.exe",
+    "sha256":  "3e9206870e524c96fc85bc9c7c2fa2afc05d9521b34c942ec2ee4a5a6653c41b",
+    "notes":  "Melhorias no dashboard, filtros, cadastro de pacientes, responsividade, configurações e backups.",
     "mandatory":  false
 }
