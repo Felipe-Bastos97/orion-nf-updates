@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.1",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.1/OrionNF_Setup_0.2.1.exe",
-    "sha256":  "845575dc75facadeab30e6d57754fc2bc3996f8098623f1ad86d8fc559eda1e6",
-    "notes":  "Correção da janela de atualização e verificação de novas versões durante o carregamento inicial.",
+    "version":  "0.2.2",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.2/OrionNF_Setup_0.2.2.exe",
+    "sha256":  "267b140dfc24a7da217bdc307ad9793361004e891aea56fc5e15c390c8c1a0b2",
+    "notes":  "Ajuste da janela de atualização para notebooks e telas com escala ampliada.",
     "mandatory":  false
 }
