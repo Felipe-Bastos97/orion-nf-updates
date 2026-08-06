@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.2",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.2/OrionNF_Setup_0.2.2.exe",
-    "sha256":  "267b140dfc24a7da217bdc307ad9793361004e891aea56fc5e15c390c8c1a0b2",
-    "notes":  "Ajuste da janela de atualização para notebooks e telas com escala ampliada.",
+    "version":  "0.2.3",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.3/OrionNF_Setup_0.2.3.exe",
+    "sha256":  "348fb53d6262be1f7363efd77a1c2f66c915819ff8b6ced66255ec4295de78ca",
+    "notes":  "Configuração fiscal automática conforme as opções disponíveis no Portal NF Cidades, com seleção direta e campos protegidos contra edição manual.",
     "mandatory":  false
 }
