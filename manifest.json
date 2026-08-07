@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.3",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.3/OrionNF_Setup_0.2.3.exe",
-    "sha256":  "348fb53d6262be1f7363efd77a1c2f66c915819ff8b6ced66255ec4295de78ca",
-    "notes":  "Configuração fiscal automática conforme as opções disponíveis no Portal NF Cidades, com seleção direta e campos protegidos contra edição manual.",
+    "version":  "0.2.4",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.4/OrionNF_Setup_0.2.4.exe",
+    "sha256":  "b268340908ef1cadc1b724e332f9521fef50975516b86f73eaf80f6c88287634",
+    "notes":  "Melhorias de estabilidade, manutenção e recuperação após encerramento inesperado.",
     "mandatory":  false
 }
