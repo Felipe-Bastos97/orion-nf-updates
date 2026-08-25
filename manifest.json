@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.4",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.4/OrionNF_Setup_0.2.4.exe",
-    "sha256":  "b268340908ef1cadc1b724e332f9521fef50975516b86f73eaf80f6c88287634",
-    "notes":  "Melhorias de estabilidade, manutenção e recuperação após encerramento inesperado.",
+    "version":  "0.2.5",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.5/OrionNF_Setup_0.2.5.exe",
+    "sha256":  "b9307679605f22c89771b4385c666c57b4de46114d028a7faa54724fe7a6a2d9",
+    "notes":  "Nova ativação segura por código temporário para instalações novas e melhoria para não solicitar novamente as credenciais técnicas quando o servidor estiver temporariamente indisponível.",
     "mandatory":  false
 }
