@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.5",
-    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.5/OrionNF_Setup_0.2.5.exe",
-    "sha256":  "b9307679605f22c89771b4385c666c57b4de46114d028a7faa54724fe7a6a2d9",
-    "notes":  "Nova ativação segura por código temporário para instalações novas e melhoria para não solicitar novamente as credenciais técnicas quando o servidor estiver temporariamente indisponível.",
+    "version":  "0.2.6",
+    "download_url":  "https://github.com/Felipe-Bastos97/orion-nf-updates/releases/download/v0.2.6/OrionNF_Setup_0.2.6.exe",
+    "sha256":  "08105f51ca9ee9e5e9ddbeebd2b0a4cf193e67af8cfdf81d44e1c9a0f4d16ac9",
+    "notes":  "Migração para o Emissor Nacional da NFS-e, cancelamento nacional, sincronização do histórico dos últimos 35 dias, prevenção de duplicidades, tomador com CPF/CNPJ e integração ao dashboard.",
     "mandatory":  false
 }
